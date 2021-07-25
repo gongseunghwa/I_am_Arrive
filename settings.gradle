@@ -1,0 +1,2 @@
+rootProject.name = "ALLIVE v2"
+include ':app'
